@@ -10,7 +10,7 @@ The Purpose of this was to help Louise identify what other campaigns did in rela
 ### Analysis of Outcomes Based on Launch Date
 ![Theater Outcomes vs Launch](Theater_Outcomes_vs_Launch.png)
 
-In this graph the data displayed shows the x-axis with the month and the y-axis with the total number of campaigns for that month. The graph also highlights if the campain was either successful,canceled, failed, or live for that month.  
+In this graph the data displayed shows the x-axis with the month and the y-axis with the total number of campaigns for that month. The graph also highlights if the campain was either successful,canceled, failed, or live for that month. With in this data set it shows that in a span of a year there had been more successful theater outcomes. It also highlights how a certian month may have an impact on a success of a campaign which shows the ideal month to start funding for a play. Staring from April - September there was was a high rate of sucessful plays funded than from Janurary - March or October - December.   
 
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals](Outcomes_vs_Goals.png)
