@@ -24,12 +24,19 @@ One of the challenges I faced in this project was trying to understand how Louis
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The frist conclusion is that throughout the year there is a higher rate of succuessful play outcomes based on launch date. With the highest point of success in the month of May having the highest peek for successfulness. Bring me to the conclusion that if Louise should have started her funding in May instead of June she may have had more funding for her play Fever.  
 
 
 - What can you conclude about the Outcomes based on Goals?
-The first conclusion one can draw about the outcomes based on launch date is that the higher the funding the higher rate of failure campaigns had. The Second was that the graph showed that the lower the funding (Less than $5k) the higher success rate the play had. 
+
+
+The first conclusion one can draw about the outcomes based on launch date is that the higher the funding the higher rate of failure campaigns had. The Second was that the graph showed that the lower the funding (Less than $5k) the higher success rate the play had. The reason could be because of a lower goal the easier it is to gain funding for vs having a larger funding goal.
 
 - What are some limitations of this dataset?
 
+One of the limitations of these dataset had is that is shows the success a play had based on funding. The dataset did not show how the play performed or if any production resulted in a successful sell out of tickets. Also the dataset does not show any data on how many people attened plays, this information would help create a better anaylsis. The dateset can show how the plays have performed and have successed. 
+
 - What are some other possible tables and/or graphs that we could create?
+
+Another graph that be created is which country had the highest successful outcomes for plays vs failures. A table that can be created showing the difference in funding vs the success rate in all countries. Having a graph showing which genre for a play would also help in creating a better understanding as to which plays do the best. Lastly creating a chart showing an average donation for successfully vs failed plays would be useful information for creating a future campaign. 
